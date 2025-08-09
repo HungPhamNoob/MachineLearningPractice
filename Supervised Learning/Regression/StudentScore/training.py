@@ -13,7 +13,7 @@ from sklearn.linear_model import LinearRegression
 
 df = pd.read_csv('StudentScore.xls')
 # profile = ProfileReport(df, title="Profiling Report", explorative=True)
-# profile.to_file('StudentScore.html')
+# profile.to_file('CSGO.html')
 
 
 target = "writing score"

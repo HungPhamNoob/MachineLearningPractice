@@ -10,7 +10,14 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\Datasets\diabetes.csv">
+        <entry key="\Datasets\final_project.ods">
+          <value>
+            <Attribute>
+              <option name="separator" value="&#9;" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Supervised Learning\Classification\CSGO\csgo_after_processing.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

@@ -12,7 +12,7 @@ from sklearn.model_selection import GridSearchCV
 from lazypredict.Supervised import LazyClassifier
 
 # Statistics + Data visualization
-df = pd.read_csv('./diabetes.csv')
+df = pd.read_csv('diabetes.csv')
 # profile = ProfileReport(df, title="Profiling Report", explorative=True)
 # profile.to_file('diabetes.html')
 
