@@ -10,7 +10,7 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\Datasets\final_project.ods">
+        <entry key="\Datasets\movies.csv">
           <value>
             <Attribute>
               <option name="separator" value="&#9;" />
@@ -18,6 +18,13 @@
           </value>
         </entry>
         <entry key="\Supervised Learning\Classification\CSGO\csgo_after_processing.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Supervised Learning\Regression\Co2\co2.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
